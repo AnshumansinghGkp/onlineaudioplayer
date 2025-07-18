@@ -1,7 +1,7 @@
 # onlineaudioplayer
 Project Title:
 YouTube & Audio Song Search Website Using PHP, HTML, CSS, and JavaScript
-1. Introduction:**
+1. Introduction:
 
 This project is a **web-based music search platform** that allows users to **search and stream songs** directly from **YouTube** or a **custom MP3 library**. It integrates modern web technologies to build an engaging and interactive music player interface.
 
